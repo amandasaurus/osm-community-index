@@ -1,0 +1,16 @@
+{
+  "id": "de-karlsruhe-meetup",
+  "featureId": "de-karlsruhe",
+  "type": "meetup",
+  "name": "OpenStreetMap Karlsruhe Stammtisch",
+  "countryCodes": ["de"],
+  "languageCodes": ["de"],
+  "description": "19:00, 3. Mittwoch der Monat, Zum Kleinen Ketter (Lidellplatz, Adlerstr. 34)",
+  "url": "https://wiki.openstreetmap.org/wiki/Karlsruhe#Treffen_und_Mailingliste",
+  "contacts": [
+    {
+      "name": "OSM Karlsruhe Mailing-list",
+      "email": "karlsruhe@lists.openstreetmap.de"
+    }
+  ]
+}
