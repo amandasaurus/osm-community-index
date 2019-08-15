@@ -1,0 +1,11 @@
+{
+  "id": "de-karlsruhe-mailinglist",
+  "featureId": "de-karlsruhe-brandenburg",
+  "type": "mailinglist",
+  "name": "Karlsruhe Mailing List",
+  "countryCodes": ["de"],
+  "languageCodes": ["de"],
+  "description": "OpenStreetMap in Karlsruhe und Umgebung",
+  "url": "https://lists.openstreetmap.de/mailman/listinfo/karlsruhe",
+  "contacts": [{"name": "FOSSGIS e.V.", "email": "info@fossgis.de"}]
+}
